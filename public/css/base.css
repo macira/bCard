@@ -18,3 +18,11 @@ text-align: center;
 	width: 50%;
 	max-width: 150px;
 }
+
+a:visited{
+	color: #ECF0F1;
+}
+
+a:hover{
+	color: #2980b9;
+}
