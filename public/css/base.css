@@ -3,10 +3,18 @@ max-width: 50%;
 padding: 20px;
 background-color: #ffffff;
 box-shadow: 5px 5px rgba(0,0,0,0.1);
+text-align: center;
 }
 
 .quote{
 	font-weight: 200;
 	font-style: italic;
 	font-size: 1.5rem;
+}
+
+.img{
+	border-radius: 50%;
+	border: 5px solid #ecf0f1;
+	width: 50%;
+	max-width: 150px;
 }
